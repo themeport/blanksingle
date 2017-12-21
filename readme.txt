@@ -5,12 +5,12 @@ Blank Single Column WordPress theme was designed and developed by themeport.net.
 
 == Requirements ==
 
-Requires at least: WordPress 4.8+
+Requires at least: WordPress 4.9+
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Theme Support ==
-Blank Single Column is a free theme, but support is not. You are welcome to try the WordPress.org forums for free support. Please Note, we do not monitor those forums. To get professional support direct from themeport.net, become a member today: themeport.net/membership. Membership is only $15 per month which includes direct email support and access to our theme generator for unbranded themes.
+Blank Single Column is a free theme, but support is not. You are welcome to try the WordPress.org forums for free support. Please Note, we do not monitor those forums. To get professional support direct from themeport.net, become a member today: themeport.net/pricing.
 
 == Credits ==
 
